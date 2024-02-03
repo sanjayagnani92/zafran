@@ -1,12 +1,14 @@
 {
   "files": {
     "main.css": "/zafran/static/css/main.9a71fbc5.css",
-    "main.js": "/zafran/static/js/main.19e18078.js",
-    "static/js/27.5046bf80.chunk.js": "/zafran/static/js/27.5046bf80.chunk.js",
+    "main.js": "/zafran/static/js/main.fb2280e4.js",
+    "static/js/256.d6fbdffd.chunk.js": "/zafran/static/js/256.d6fbdffd.chunk.js",
+    "static/js/344.7ec4fc7c.chunk.js": "/zafran/static/js/344.7ec4fc7c.chunk.js",
+    "static/js/748.35b373a2.chunk.js": "/zafran/static/js/748.35b373a2.chunk.js",
     "index.html": "/zafran/index.html"
   },
   "entrypoints": [
     "static/css/main.9a71fbc5.css",
-    "static/js/main.19e18078.js"
+    "static/js/main.fb2280e4.js"
   ]
 }
